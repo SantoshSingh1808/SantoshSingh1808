@@ -23,13 +23,13 @@
 
 **🌐 Connect with Me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/sujeet-kushwaha-915619245" target="_blank">
+  <a href="https://www.linkedin.com/in/santosh-singh-devops/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" />
   </a>  
-  <a href="https://www.instagram.com/sujeet2527/" target="_blank">
+  <a href="https://www.instagram.com/santosh.817/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
   </a>
-  <a href="mailto:SantoshSingh1808@gmail.com" target="_blank">
+  <a href="mailto:Santosh1808.Singh@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" />
   </a>
 </p>
